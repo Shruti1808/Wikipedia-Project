@@ -4,6 +4,29 @@
 }
 
 .bg-danger {
-  background-color:#E6E6FA;
+  background-color: #f2d1ff;
+}
 
+.bg-danger-box {
+  background-color: #faedff;
+}
+
+.bg-success {
+    background-color: #d9f9db;
+}
+
+.bg-success-box {
+    background-color: #e8f7ea;
+}
+
+.bg-info {
+  background-color: #cfe3f9;
+}
+
+.bg-info-box {
+  background-color: #e5eff9;
+}
+
+h3 {
+  border: solid thin black;
 }
