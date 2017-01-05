@@ -1,4 +1,9 @@
 .smallphoto {
   height: 160px;
-  width: 160px;
+  width: 150px;
+}
+
+.bg-danger {
+  background-color:#E6E6FA;
+
 }
