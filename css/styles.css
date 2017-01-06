@@ -62,7 +62,7 @@ img {
 }
 
 img.feature{
-  margin: 2%;
+  margin-top: 0px;
   max-width: 350px;
   max-height: 350px;
 
