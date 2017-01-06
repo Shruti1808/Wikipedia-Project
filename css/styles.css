@@ -3,20 +3,28 @@
   width: 150px;
 }
 
+.row {
+  height: 60%;
+}
+
 .bg-danger {
   background-color: #f2d1ff;
 }
 
 .bg-danger-box {
   background-color: #faedff;
+  border: 2px solid white;
 }
 
 .bg-success {
     background-color: #d9f9db;
+
 }
 
 .bg-success-box {
     background-color: #e8f7ea;
+    border: 2px solid white;
+    height: 100%;
 }
 
 .bg-info {
@@ -25,6 +33,8 @@
 
 .bg-info-box {
   background-color: #e5eff9;
+  border: 2px solid white;
+  height:100%;
 }
 
 h3 {
