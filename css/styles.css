@@ -29,4 +29,41 @@
 
 h3 {
   border: solid thin black;
+  margin-bottom: 24px;
+}
+
+h2 {
+  margin-top: 1%;
+  font-family: Arial, sans-serif;
+  font-size: 23px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.welcome-row {
+  max-height: 90px;
+  padding-left: 1px;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-left {
+  float: left;
+}
+
+img {
+  margin: 2%;
+  max-width: 200px;
+  max-height: 150px;
+}
+
+img.feature{
+  margin: 2%;
+  max-width: 350px;
+  max-height: 350px;
+
 }
